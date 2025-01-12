@@ -1,11 +1,11 @@
 # Projects
 Project Descriptions
 
-* Self-assembling peptide design
+## Self-assembling peptide design
 
-* Assembly Graph Classification
+## Assembly Graph Classification
 
-* Predict InterPro annotations
+## Predict InterPro annotations
 
 This project aims to accelerate InterProScan protein domain annotation
 by developing a deep learning model that combines ESM embeddings,
@@ -15,7 +15,7 @@ InterPro domains directly from sequences and structures, significantly
 reducing computational time while maintaining annotation accuracy.
 
 
-* Genome-scale protein function prediction
+## Genome-scale protein function prediction
 
 This project aims to enhance genome-scale protein function prediction
 by considering proteins within their broader biological context,
@@ -26,7 +26,7 @@ cellular homeostasis requirements, the model will better capture how
 proteins work together to enable accurate functional annotation across
 entire genomes.
 
-* Structure-based function prediction
+## Structure-based function prediction
 
 This project aims to improve protein function prediction by developing
 novel approaches that better leverage structural information,
@@ -37,7 +37,7 @@ spatial patterns and biochemical properties, we aim to achieve
 significantly better performance than current structure-based methods
 and sequence-only approaches.
 
-* Alignment improvement
+## Alignment improvement
 
 This project aims to tackle the challenging problem of aligning highly
 repetitive genomic regions, particularly in centromeric and telomeric
@@ -47,7 +47,7 @@ algorithms, we seek to improve the accuracy and efficiency of sequence
 alignment in these complex repetitive regions that are crucial for
 chromosome stability and function.
 
-* AMR Prediction
+## AMR Prediction
 
 This project aims to develop a machine learning approach for
 predicting antimicrobial resistance in Methicillin-resistant
@@ -57,7 +57,7 @@ integrating genomic features and resistance patterns, we aim to create
 a more accurate prediction model that could help guide antibiotic
 treatment decisions and understand resistance mechanisms.
 
-* Metagenomics
+## Metagenomics
 
 This project aims to develop a transformer-based foundation model for
 metagenomic data, leveraging Operational Taxonomic Unit (OTU)
@@ -67,12 +67,12 @@ the model will capture complex microbial interactions and community
 patterns, enabling downstream applications such as predicting missing
 taxonomic abundances and sample-level phenotypes through fine-tuning.
 
-* Chemical classification
+## Chemical classification
 - Kanoo extension
 
-* GO Functions, binding, chemicals
+## GO Functions, binding, chemicals
 
-* FPDL
+## FPDL
 
 This project aims to develop a novel "programming language" for
 protein design that leverages Gene Ontology (GO) to specify desired
@@ -87,7 +87,7 @@ implementation and experimental validation, potentially
 revolutionizing how we design proteins with specific functions.
 
 
-* Prediction of treatment response
+## Prediction of treatment response
 This project aims to develop a knowledge-based machine learning
 framework for predicting cancer treatment responses by integrating
 multi-omics data, population-specific pangenome information, and
