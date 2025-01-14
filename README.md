@@ -71,6 +71,12 @@ taxonomic abundances and sample-level phenotypes through fine-tuning.
 - Kanoo extension
 
 ## GO Functions, binding, chemicals
+This project aims to develop a computational framework for predicting
+chemical-binding-related Gene Ontology (GO) functions from protein
+structural data. By analyzing key structural features such as binding
+pockets, surface electrostatics, and hydrophobicity patterns, the
+system will identify potential chemical binding capabilities and map
+them to relevant GO molecular function terms.
 
 ## FPDL
 
